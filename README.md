@@ -2,6 +2,13 @@
 
 Swarm robotics project
 
+### Paquetes
+
+```
+pip install matplotlib
+pip install numpy
+```
+
 ### Algoritmo de funcionamiento
 
 Definir el número de robots y sus propiedades iniciales (posición, ángulo, distancia, si están regresando).
