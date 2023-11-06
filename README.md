@@ -25,6 +25,6 @@ pip install numpy
   - Dibujar la posición de la fuente de calor y los robots en el eje
   - Actualizar la leyenda
 
-#### 3. Versión vigente:
+### 3. Versión vigente:
 
 La versión vigente del proyecto es [Test #19](https://github.com/odaliz-r2/beeBot_bombero/blob/main/test19_MoreReal.py)
