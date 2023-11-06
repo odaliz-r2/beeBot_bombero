@@ -1,15 +1,13 @@
-# beeBot_bombero
+# BEEBot Bombero
 
-Swarm robotics project
-
-### Paquetes
+### 1. Requerimientos:
 
 ```
 pip install matplotlib
 pip install numpy
 ```
 
-### Algoritmo de funcionamiento
+### 2. Algoritmo de funcionamiento
 
 - Definir el número de robots y sus propiedades iniciales (posición, ángulo, distancia, si están regresando).
 - Definir la posición de la fuente de calor.
