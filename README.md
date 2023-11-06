@@ -24,3 +24,7 @@ pip install numpy
   - Si el robot ha regresado al punto de inicio, reiniciar su ángulo y distancia y marcarlo como no 'regresando'
   - Dibujar la posición de la fuente de calor y los robots en el eje
   - Actualizar la leyenda
+
+#### 3. Versión vigente:
+
+La versión vigente del proyecto es [Test #19](https://github.com/odaliz-r2/beeBot_bombero/blob/main/test19_MoreReal.py)
