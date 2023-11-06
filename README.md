@@ -27,4 +27,4 @@ pip install numpy
 
 ### 3. Versión vigente:
 
-La versión vigente del proyecto es [Test #19](https://github.com/odaliz-r2/beeBot_bombero/blob/main/test19_MoreReal.py)
+La versión vigente del proyecto es [Test #19](https://github.com/odaliz-r2/beeBot_bombero/blob/main/tests/test19_MoreReal.py)
